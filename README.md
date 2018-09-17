@@ -6,4 +6,4 @@ For Machine Learning
 
 文件中的python代码，请看 B站或youtube上 UP主的讲解。
 
-文刀出品
+（文刀出品）
