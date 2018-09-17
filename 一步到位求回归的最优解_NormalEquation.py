@@ -34,7 +34,7 @@ def normalequation(xmat,ymat,lam=0):
 
 
 # implement
-xmat,ymat = loaddata('ytb_03.txt')
+xmat,ymat = loaddata('regression_data.txt')
 print('xmat:',xmat)
 print('ymat:',ymat)
 
