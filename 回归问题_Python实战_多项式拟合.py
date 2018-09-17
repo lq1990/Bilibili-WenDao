@@ -61,7 +61,7 @@ def wb_calc(xmat, ymat,lam=0,alpha=0.0001,maxIter=20000):
 
 
 # show
-xmat, ymat = loaddata('interpolation.txt')
+xmat, ymat = loaddata('regression_data.txt')
 print('xmat:',xmat,xmat.shape,type(xmat))
 print('ymat:',ymat,ymat.shape,type(ymat))
 
