@@ -2,6 +2,8 @@
 For Machine Learning
 # welcome to my Github
 
+为方便查找，有中文标识的都是python文件。
+
 文件中的python代码，请看 B站或youtube上 UP主的讲解。
 
 文刀出品
